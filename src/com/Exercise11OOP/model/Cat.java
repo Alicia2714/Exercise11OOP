@@ -1,6 +1,6 @@
 package com.Exercise11OOP.model;
 
-public class Cat {
+public abstract class Cat implements Catable {
 	
 	//Properties
 	private int id;
